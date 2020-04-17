@@ -64,18 +64,18 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(321, 76);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(125, 20);
+            this.label1.Size = new System.Drawing.Size(146, 20);
             this.label1.TabIndex = 3;
-            this.label1.Text = "input word \"test\"";
+            this.label1.Text = "input \"one\" or \"two\"";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(137, 127);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(328, 20);
+            this.label2.Size = new System.Drawing.Size(293, 20);
             this.label2.TabIndex = 4;
-            this.label2.Text = "RetuINT returned as output from Stored Proc";
+            this.label2.Text = "INT returned as output from Stored Proc";
             // 
             // Form1
             // 
